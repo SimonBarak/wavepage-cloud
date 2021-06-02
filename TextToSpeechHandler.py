@@ -10,7 +10,7 @@ import dropbox
 from azure.cognitiveservices.speech import AudioDataStream
 from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient, __version__
 
-
+# API keys
 speech_key, service_region = "XXXXXXXXXX", "westeurope"
 connect_str = "XXXXXXXXXXX"
 
